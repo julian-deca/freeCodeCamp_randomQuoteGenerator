@@ -1,0 +1,6 @@
+#back {
+  transition: all 0.4s ease-in-out;
+}
+#bord {
+  background-color: rgb(182, 169, 169);
+}
